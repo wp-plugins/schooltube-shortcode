@@ -2,7 +2,7 @@
 Contributors: foadah
 Tags: shortcode schooltube
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 3.5.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -19,9 +19,13 @@ This plugin uses the [schooltube]<VideoURL>[/schooltube] shortcode to grab the <
 
 = Usage =
 
-Once the plugin is activated, use the shortcode in your posts/pages
+Use the shortcode in your posts/pages
 	[schooltube]http://www.schooltube.com/video/912133f720ea435d9ecc/SchoolTube%20WordPress%20Tutorial[/schooltube]
-	
+
+= Roadmap =
+
+
+
 == Changelog ==
 = 0.1 =
 * Newly created and a bit messy
